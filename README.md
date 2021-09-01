@@ -1,4 +1,4 @@
-# summer_wd_final
+# Summer 2021 - VetsInTech Front-End Web Development Cohort
 This project was built with the help of:
 https://codeactually.com/interactivequiz.html
 
